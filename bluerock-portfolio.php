@@ -226,11 +226,7 @@ $bluerock_custom_meta_fields = array(
         'id'    => $prefix.'highlights3',
         'type'  => 'checkbox'
     ),
-            array(
-        'label'=> 'Management',
-        'id'    => $prefix.'highlights5',
-        'type'  => 'text'
-    ),
+
 );
 
 // Callback
